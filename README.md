@@ -36,7 +36,7 @@ O projeto inclui narração de voz usando a API ResponsiveVoice e validação pa
 
 ### 2. Acesse a pasta do projeto
 
-    cd amigo-secreto
+    cd ChallengeSecretFriendByRodrigoMeneghetti
 
 ### 3. Abra o arquivo *index.html* no seu navegador.
 
