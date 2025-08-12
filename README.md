@@ -32,7 +32,7 @@ O projeto inclui narração de voz usando a API ResponsiveVoice e validação pa
 
 ### 1. Clone este repositório:
 
-   git clone https://github.com/seuusuario/amigo-secreto.git
+   git clone https://github.com/RodrigoMeneghettiEducation/ChallengeSecretFriendONEG9PTByRodrigoMeneghetti.git
 
 ### 2. Acesse a pasta do projeto
 
